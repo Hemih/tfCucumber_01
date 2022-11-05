@@ -1,0 +1,20 @@
+[
+  {
+    "line": 2,
+    "name": "TechFios Login Functionality Validation wiht driving the data form My SQL DB",
+    "description": "",
+    "id": "techfios-login-functionality-validation-wiht-driving-the-data-form-my-sql-db",
+    "keyword": "Feature",
+    "uri": "features/TechFiosLoginFromDB.feature",
+    "tags": [
+      {
+        "line": 1,
+        "name": "@LoginFeatureFromDB"
+      },
+      {
+        "line": 1,
+        "name": "@Regression"
+      }
+    ]
+  }
+]
